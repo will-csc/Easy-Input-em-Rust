@@ -41,9 +41,9 @@ Dentro de main.rs, a função input do módulo read é reexportada para que poss
 pub use read::input;
 ```
 
-Agora você já pode utilizar input diretamente em main.rs:
+<hr>
 
-### Regras da função
+## Regras da função
  Para função funcionar, a declaração da variável deve ser tipada, contendo o seu tipo de dado. Tambeém, deve haver uma mensagem para input.
 
 Exemplo:
