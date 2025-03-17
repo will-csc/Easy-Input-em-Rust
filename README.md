@@ -1,4 +1,4 @@
-# Projeto de Entrada de Dados em Rust
+# Facilitando Input do Usuário em Rust
 
 Este projeto contém uma função para ler entradas do usuário em Rust de forma simples e reutilizável. Ele utiliza um módulo personalizado `read` que contém a função `input`, que permite ao usuário fornecer entradas de tipos específicos, como `i32` e `String`.
 
